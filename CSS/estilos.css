@@ -17,4 +17,9 @@ body {
 
 #container h1 {
     font-size: 20px;
+    color: #fe4918;
+}
+
+p#two-p{
+    color:crimson;
 }
